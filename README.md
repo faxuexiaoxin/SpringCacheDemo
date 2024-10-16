@@ -1,0 +1,1 @@
+对于spring的cache的使用，包含默认的并发hashmap以及caffeine的使用
